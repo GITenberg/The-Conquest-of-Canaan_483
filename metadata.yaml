@@ -1,0 +1,36 @@
+_repo: The-Conquest-of-Canaan_483
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Tarkington, Booth
+    aliases:
+    - Van Loot, Cornelius Obenchain
+    - Tarkington, Newton Booth
+    - Tarkington, B. (Booth)
+    birthdate: 1869
+    deathdate: 1946
+    gutenberg_agent_id: '169'
+    url: http://www.gutenberg.org/2009/agents/169
+    wikipedia: http://en.wikipedia.org/wiki/Booth_Tarkington
+description: What does it mean to be popular? Is it a mark of good character, or merely
+  a sign that you're well-regarded among an influential group of elites? The hero
+  in Booth Tarkington's tale The Conquest of Canaan has achieved a strange kind of
+  popularity -- he's seen as a prince among those who are down on their luck, but
+  to the upper classes and the powerful, he might as well be invisible. Will Joe Loudon
+  be able to channel his limited influence to make some much-needed changes in his
+  community?
+gutenberg_issued: '1996-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '483'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'City and town life -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Indiana -- Fiction'
+- GITenberg
+title: The Conquest of Canaan
+url: http://www.gutenberg.org/ebooks/483
